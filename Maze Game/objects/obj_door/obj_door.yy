@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_walls",
+  "%Name":"obj_door",
   "eventList":[],
   "managed":true,
-  "name":"obj_walls",
+  "name":"obj_door",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
+    "name":"spr_door",
+    "path":"sprites/spr_door/spr_door.yy",
   },
   "spriteMaskId":null,
   "visible":true,
