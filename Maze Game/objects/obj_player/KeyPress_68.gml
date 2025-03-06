@@ -9,3 +9,11 @@ speed = 3;
 /// @DnDHash : 77A2620F
 /// @DnDArgument : "direction" "0"
 direction = 0;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 6BE542EA
+/// @DnDArgument : "spriteind" "spr_player_right"
+/// @DnDSaveInfo : "spriteind" "spr_player_right"
+sprite_index = spr_player_right;
+image_index = 0;
