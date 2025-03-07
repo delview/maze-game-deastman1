@@ -35,6 +35,7 @@
   "name":"Maze Game",
   "resources":[
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
+    {"id":{"name":"obj_dungeon_door","path":"objects/obj_dungeon_door/obj_dungeon_door.yy",},},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_spikes_closed","path":"objects/obj_spikes_closed/obj_spikes_closed.yy",},},
@@ -44,6 +45,7 @@
     {"id":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
     {"id":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
     {"id":{"name":"rm_4","path":"rooms/rm_4/rm_4.yy",},},
+    {"id":{"name":"dungeondoor","path":"sprites/dungeondoor/dungeondoor.yy",},},
     {"id":{"name":"spr_brickwall","path":"sprites/spr_brickwall/spr_brickwall.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
