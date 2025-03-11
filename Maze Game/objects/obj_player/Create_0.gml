@@ -1,5 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 12D4C6C0
+/// @DnDHash : 01EE17CE
 /// @DnDArgument : "var" "key"
 key = 0;

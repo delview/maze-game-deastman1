@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_spikes_closed",
+  "%Name":"obj_statue_horizontal",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_spikes_closed",
+  "name":"obj_statue_horizontal",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_statue",
+    "path":"sprites/spr_statue/spr_statue.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
