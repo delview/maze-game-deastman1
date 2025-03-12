@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_hole",
+    "path":"sprites/spr_hole/spr_hole.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
